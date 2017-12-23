@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">JeddahApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Event_Fragment">Event</string>
+    <string name="Resaurant_Fragment">Resturant</string>
+    <string name="Malls_Fragment">Malls</string>
+    <string name="Public_place_Fragment">Public place</string>
+
+    <string name="arab">Al Arab Mall</string>
+    <string name="aziz">Aziz Mall</string>
+    <string name="redSea">Red Sea Mall</string>
+
+    <string name="stak">Stack House</string>
+    <string name="munch">Munch</string>
+    <string name="Section">Section B</string>
+
+    <string name="Kornish">Korneesh</string>
+    <string name="Acwaryom">Acwaryom</string>
+    <string name="garden">garden</string>
+
+    <string name="BooksReader">Book event</string>
+    <string name="aljenadrial">Aljenadria</string>
+    <string name="Zeo">Zeo</string>
+
+    <string name="arabL">09876</string>
+    <string name="azizL">2345</string>
+    <string name="redSeaL">1234567</string>
+
+
+
+
+</resources>

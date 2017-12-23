@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E0F7FA</color>
+    <color name="colorPrimaryDark">#B2EBF2</color>
+    <color name="colorAccent">#00B8D4</color>
+
+    <!-- Background color for the  category -->
+    <color name="category_event">#CCFF90</color>
+
+    <!-- Background color for the family members category -->
+    <color name="category_mall">#FFF176</color>
+
+    <!-- Background color for the colors category -->
+    <color name="category_public_place">#FFA000</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_restaurant">#16AFCA</color>
+</resources>
