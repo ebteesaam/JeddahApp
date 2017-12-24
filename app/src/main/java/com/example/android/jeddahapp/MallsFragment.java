@@ -34,9 +34,9 @@ public class MallsFragment extends Fragment {
 
         final ArrayList<Location> locations = new ArrayList<Location>();
 
-        locations.add(new Location(getString(R.string.arab),R.drawable.arab,getString(R.string.arabL)));
-        locations.add(new Location(getString(R.string.aziz), R.drawable.aziz, getString(R.string.azizL)));
-        locations.add(new Location(getString(R.string.redSea), R.drawable.redsea,getString(R.string.redSeaL)));
+        locations.add(new Location(getString(R.string.arab),R.drawable.arabd,getString(R.string.arabL)));
+        locations.add(new Location(getString(R.string.aziz), R.drawable.azizd, getString(R.string.azizL)));
+        locations.add(new Location(getString(R.string.redSea), R.drawable.redsead,getString(R.string.redSeaL)));
 
         JeddahAdapter adapter=new JeddahAdapter(getActivity(),locations,R.color.category_mall);
 
